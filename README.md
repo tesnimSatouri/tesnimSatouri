@@ -37,26 +37,6 @@ MERN Stack Specialist
 **Location**  
 Tunis, Tunisia
 
-</td>
-<td width="50%">
-
-**Passions**  
-Creating beautiful interfaces  
-Solving complex problems  
-Learning new technologies  
-Volunteering & sports
-
-**Languages**  
-Arabic • French • English • German
-
-**Currently**  
-Exploring AI integrations  
-Building sustainable tech
-
-</td>
-</tr>
-</table>
-
 > *"Code with purpose, design with heart"*  
 > I believe every line of code can make someone's life easier
 
