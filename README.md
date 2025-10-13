@@ -1,6 +1,6 @@
 <div align="center">
 
- Added animated wave GIF and feminine header with emojis 
+ 
 <img src="/images/design-mode/wave.gif" width="30px">
 
 # Hi, I'm Tesnim! ✨💖
@@ -23,39 +23,37 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 </div>
 
-\`\`\`javascript
-const tesnim = {
-    location: "Tunis, Tunisia 🇹🇳",
-    education: "Computer Engineering @ ESPRIT 🎓",
-    role: "Full Stack Developer",
-    passion: ["Creating beautiful UIs ✨", "Solving complex problems 🧩", "Learning new tech 📚"],
-    languages: {
-        spoken: ["Arabic 🌟", "French 🥐", "English 🌍", "German 🇩🇪"],
-        coding: ["JavaScript", "Python", "Java", "Dart"]
-    },
-    currentlyLearning: "Advanced DevOps & Cloud Architecture ☁️",
-    lookingFor: "6-month internship in 2026 🚀",
-    hobbies: ["Volunteering 💝", "Sports 🏃‍♀️", "Building side projects 💻"],
-    lifePhilosophy: "Code with purpose, design with heart 💖",
-    funFact: "I believe every line of code can make someone's life easier! ✨"
-};
+### 👩‍💻 Who I Am
 
-console.log("Let's create something amazing together! 🌈");
-\`\`\`
+🎓 **Computer Engineering Student** @ ESPRIT, Tunis  
+💼 **Full Stack Developer** specializing in MERN Stack  
+🌍 **Based in:** Tunis, Tunisia  
+🚀 **Looking for:** 6-month internship in 2026
 
-<div align="center">
+### 💖 What I Love
 
-**🌟 What drives me:** Building innovative solutions that combine beautiful design with powerful functionality. I love turning ideas into reality and making technology accessible to everyone!
+✨ Creating beautiful, user-friendly interfaces  
+🧩 Solving complex technical problems  
+📚 Learning new technologies and frameworks  
+💝 Volunteering and giving back to the community  
+🏃‍♀️ Staying active through sports
 
-**💫 Currently working on:** Exploring AI integrations and building sustainable tech solutions
+### 🗣️ Languages
 
-</div>
+**Spoken:** Arabic (Native) • French (Fluent) • English (Fluent) • German (Basic)  
+**Coding:** JavaScript • Python • Java • Dart • PHP
+
+### 🌟 My Philosophy
+
+> "Code with purpose, design with heart 💖"  
+> I believe every line of code can make someone's life easier!
+
+**💫 Currently:** Exploring AI integrations and building sustainable tech solutions
 
 ---
 
 ## 💖 Tech Stack
 
- Condensed tech stack with pink-themed badges and emojis 
 
 **Frontend** 🎨  
 ![React](https://img.shields.io/badge/React-FF69B4?style=flat-square&logo=react&logoColor=white)
@@ -84,7 +82,7 @@ console.log("Let's create something amazing together! 🌈");
 
 ## 📊 GitHub Stats
 
- Added pink-themed GitHub stats 
+ 
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=tesnimSatouri&show_icons=true&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF1493&icon_color=FF69B4&text_color=C71585)
