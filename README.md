@@ -86,13 +86,6 @@ Tunis, Tunisia
 
 <br>
 
-## ⟡ GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=tesnimSatouri&show_icons=true&theme=radical&hide_border=true&bg_color=F5F0FA&title_color=9B7EBD&icon_color=C9A0DC&text_color=6B5B7A)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tesnimSatouri&theme=radical&hide_border=true&background=F5F0FA&ring=9B7EBD&fire=C9A0DC&currStreakLabel=6B5B7A)
 
 </div>
 
