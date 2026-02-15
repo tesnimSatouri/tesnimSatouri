@@ -40,7 +40,7 @@ Tunis, Tunisia
 > *"Code with purpose, design with heart"*  
 > I believe every line of code can make someone's life easier
 
-**Looking for:** 6-month internship opportunity in 2026
+Currently a Trainee at BNP Paribas sa , Paris France
 
 <br>
 
